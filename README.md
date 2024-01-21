@@ -27,14 +27,14 @@ https://ekinox.deform.cc/Token-Gating-Form
       Compliance Risk: https://www.risksint.com/ 
 
 ### 3.  Soulbound Certificate
-   a. Website to generate Certificate (Private not Public)
+   a. Website to generate AMLCFT Compliant Certificate (Private not Public)
    https://app.unlock-protocol.com/certification?s=certified-user-for-ekinox 
 
    b. Contract
       Link: https://sepolia.etherscan.io/token/0x910577e336d9ce030346863e36701f15f6948d41
       Contract: 0x910577e336d9CE030346863e36701F15f6948D41  
 
-### 4. Form to create orders to Buy and Sell      
+### 4. Form to recharge COPX to Vault
    https://kwsiwcx0prj.typeform.com/to/BpAk39VU
    
 ### 5. Cross-Chain Transferor SepoliaETH-SepoliaARB with GHO
