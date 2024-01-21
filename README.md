@@ -20,8 +20,8 @@ https://ekinox.deform.cc/Token-Gating-Form
 ### 2. Screening AML CFT (On-chain
 
    a. On-chain: 
-      - Go Plus:https://gopluslabs.io/malicious-address-detection
-      - Eliptic.xyz 
+      - Go Plus: https://gopluslabs.io/malicious-address-detection
+      - Eliptic: www.elliptic.co  
 
    b. Off-Chain
       Compliance Risk: https://www.risksint.com/ 
