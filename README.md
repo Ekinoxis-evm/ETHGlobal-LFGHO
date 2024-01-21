@@ -34,14 +34,15 @@ https://ekinox.deform.cc/Token-Gating-Form
 ### 4. Form to create orders to Buy and Sell      
    https://kwsiwcx0prj.typeform.com/to/BpAk39VU
    
-### 5. Mint Cross-Chain Token Colombian Peso (COPX) colaterized with GHO
+### 5. Cross-Chain CCIP SepoliaETH-SepoliaARB with GHO
    Contrato:
    Acronimo: COPX
    Decimals: 18 - confirmar
 
 Sepolia Network - Arbitrum Sepolia : 0xe083AC421f07110B617E5D9B6c770D1e0875ae30
 
-8. Vault COPX/GHO
+### 8. Vault COPX/GHO
+
 GHO seopolia: 0xc4bF5CbDaBE595361438F8c6a187bDc330539c60
 
 
