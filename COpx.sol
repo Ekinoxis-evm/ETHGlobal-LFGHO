@@ -23,3 +23,7 @@ contract PesoCrossChain is ERC20, ERC20Burnable, AccessControl, ERC20Permit {
         _mint(to, amount);
     }
 }
+// Contract: 
+// Owner: 0xFfcaFD4ab6e8AA5ea07E681703786fE593186771
+// Minter 1 : 0xFfcaFD4ab6e8AA5ea07E681703786fE593186771
+// Minter 2: 0x8d3F29A5CA03a49CF1f6E6Bd1d546710C4D4BbDE
