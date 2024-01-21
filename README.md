@@ -39,8 +39,7 @@ https://ekinox.deform.cc/Token-Gating-Form
    Acronimo: COPX
    Decimals: 18 - confirmar
 
-
-Contract to send Sepolia Network: 0xe083AC421f07110B617E5D9B6c770D1e0875ae30
+Sepolia Network - Arbitrum Sepolia : 0xe083AC421f07110B617E5D9B6c770D1e0875ae30
 
 8. Vault COPX/GHO
 GHO seopolia: 0xc4bF5CbDaBE595361438F8c6a187bDc330539c60
