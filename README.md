@@ -44,30 +44,9 @@ https://docs.chain.link/ccip/tutorials/cross-chain-tokens
 GHO can be used within Arbtriumt-Sepolia Lanes.
 
 
+Contract to send Sepolia Network: 0xe083AC421f07110B617E5D9B6c770D1e0875ae30
 
 
-Ethereum Sepolia
- - Router  0x0bf3de8c5d3e8a2b34d2beeb17abfcebaf363a59
- - LINK 0x779877A7B0D9E8603169DdbD7836e478b4624789
- - WETH  0x097D90c9d3E0B50Ca60e1ae45F6A81010f9FB534
-
- - Price Feed Contract Addresses GHO / USD - 0x635A86F9fdD16Ff09A0701C305D3a845F1758b8E
-
-Sepolia testnet -> Arbitrum Sepolia testnet
-- CCIP-BnM	 0xFd57b4ddBf88a4e07fF4e34C487b99af2Fe82a05
-- CCIP-LnM	0x466D489b6d36E7E3b824ef491C225F5830E81cC1
-- GHO 0xc4bF5CbDaBE595361438F8c6a187bDc330539c60
-
-
-Arbitrum Sepolia testnet
-- Router 0x2a9C5afB0d0e4BAb2BCdaE109EC4b0c4Be15a165
-- LINK 0xb1D4538B4571d411F07960EF2838Ce337FE1E80E
-- WETH 0xE591bf0A0CF924A0674d7792db046B23CEbF5f34
-
-Arbitrum Sepolia testnet -> Sepolia testnet
-- CCIP-BnM - 0xA8C0c11bf64AF62CDCA6f93D3769B88BdD7cb93D
-- CCIP-LnM 0x139E99f0ab4084E14e6bb7DacA289a91a2d92927
-- GHO - 0xb13Cfa6f8B2Eed2C37fB00fF0c1A59807C585810
 
 
 8. Vault COPX/GHO
@@ -76,9 +55,38 @@ GHO seopolia: 0xc4bF5CbDaBE595361438F8c6a187bDc330539c60
 
 
 **Documentacion utilizada**
+
+
+
+
+
 - Chainlink
-   - https://docs.chain.link/ccip
-   - https://docs.chain.link/ccip/tutorials/cross-chain-tokens
+         - https://docs.chain.link/ccip
+         - https://docs.chain.link/ccip/tutorials/cross-chain-tokens
+         - Ethereum Sepolia
+       - Router  0x0bf3de8c5d3e8a2b34d2beeb17abfcebaf363a59
+       - LINK 0x779877A7B0D9E8603169DdbD7836e478b4624789
+       - WETH  0x097D90c9d3E0B50Ca60e1ae45F6A81010f9FB534
+      
+       - Price Feed Contract Addresses GHO / USD - 0x635A86F9fdD16Ff09A0701C305D3a845F1758b8E
+
+Sepolia testnet -> Arbitrum Sepolia testnet
+      - CCIP-BnM	 0xFd57b4ddBf88a4e07fF4e34C487b99af2Fe82a05
+      - CCIP-LnM	0x466D489b6d36E7E3b824ef491C225F5830E81cC1
+      - GHO 0xc4bF5CbDaBE595361438F8c6a187bDc330539c60
+      
+      
+      Arbitrum Sepolia testnet
+      - Router 0x2a9C5afB0d0e4BAb2BCdaE109EC4b0c4Be15a165
+      - LINK 0xb1D4538B4571d411F07960EF2838Ce337FE1E80E
+      - WETH 0xE591bf0A0CF924A0674d7792db046B23CEbF5f34
+      
+      Arbitrum Sepolia testnet -> Sepolia testnet
+      - CCIP-BnM - 0xA8C0c11bf64AF62CDCA6f93D3769B88BdD7cb93D
+      - CCIP-LnM 0x139E99f0ab4084E14e6bb7DacA289a91a2d92927
+      - GHO - 0xb13Cfa6f8B2Eed2C37fB00fF0c1A59807C585810
+
+
 - GHO
    - Documentación GHO: What Is GHO? | GHO Document Hub https://docs.gho.xyz/concepts/overview
    - Github de GHO: https://github.com/aave/gho-core
