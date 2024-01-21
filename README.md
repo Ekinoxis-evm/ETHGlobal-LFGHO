@@ -2,14 +2,14 @@
 Participacion en ETHGlobal LFGHO 2024 - Link: https://ethglobal.com/events/lfgho
 
 
-#MODELO 
+# MODELO 
 https://lucid.app/lucidchart/fd53cf61-4a8c-4ff5-ad8a-6c2672f0d797/edit?viewport_loc=-333%2C-783%2C3043%2C1669%2C0_0&invitationId=inv_32d242e9-480f-49d9-ac14-010a320a2078 
 
-**PROYECTO**
+# **PROYECTO**
 
 Landingpage to Access to Services: https://guild.xyz/ekinox
 
-**General Costumer Journey Resume**
+## **General Costumer Journey Resume**
 
 1. Form to Tokenized User with Soulbound 
    https://ekinox.deform.cc/Token-Gating-Form
@@ -46,21 +46,16 @@ GHO can be used within Arbtriumt-Sepolia Lanes.
 
 Contract to send Sepolia Network: 0xe083AC421f07110B617E5D9B6c770D1e0875ae30
 
-
-
-
 8. Vault COPX/GHO
 GHO seopolia: 0xc4bF5CbDaBE595361438F8c6a187bDc330539c60
 
 
 
-**Documentacion utilizada**
+# **Documentacion utilizada**
 
 
+## Chainlink
 
-
-
-- Chainlink
 - https://docs.chain.link/ccip
 -  https://docs.chain.link/ccip/tutorials/cross-chain-tokens
 - Ethereum Sepolia
@@ -88,10 +83,9 @@ Arbitrum Sepolia testnet -> Sepolia testnet
 - GHO - 0xb13Cfa6f8B2Eed2C37fB00fF0c1A59807C585810
 
 
-- GHO
+## GHO
    - Documentación GHO: What Is GHO? | GHO Document Hub https://docs.gho.xyz/concepts/overview
    - Github de GHO: https://github.com/aave/gho-core
    - https://docs.gho.xyz/developer-docs/contracts-overview
-   - 
 
 
