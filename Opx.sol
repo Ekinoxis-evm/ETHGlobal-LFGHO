@@ -17,3 +17,4 @@ contract MyToken is ERC20, ERC20Burnable, Ownable, ERC20Permit {
         _mint(to, amount);
     }
 }
+
