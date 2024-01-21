@@ -39,6 +39,7 @@ General Costumer Journey Resume
    Link:
    
 8. Vault COPX/GHO
+GHO seopolia: 0xc4bF5CbDaBE595361438F8c6a187bDc330539c60
 
 
 Documentacion utilizada:
@@ -47,5 +48,6 @@ Documentacion utilizada:
 - GHO
    - Documentación GHO: What Is GHO? | GHO Document Hub https://docs.gho.xyz/concepts/overview
    - Github de GHO: https://github.com/aave/gho-core
+   - https://docs.gho.xyz/developer-docs/contracts-overview
 
 
