@@ -51,9 +51,10 @@ GHO seopolia: 0xc4bF5CbDaBE595361438F8c6a187bDc330539c60
 
 
 ## Chainlink
-
+** CCIP Supported Networks Testnet - v1.2.0 **
 - https://docs.chain.link/ccip
 -  https://docs.chain.link/ccip/tutorials/cross-chain-tokens
+-  https://docs.chain.link/ccip/supported-networks/v1_2_0/testnet#arbitrum-sepolia
 
 ### Ethereum Sepolia
 - Router  0x0bf3de8c5d3e8a2b34d2beeb17abfcebaf363a59
