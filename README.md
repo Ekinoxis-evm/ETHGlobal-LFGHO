@@ -54,9 +54,11 @@ GHO seopolia: 0xc4bF5CbDaBE595361438F8c6a187bDc330539c60
 
 - https://docs.chain.link/ccip
 -  https://docs.chain.link/ccip/tutorials/cross-chain-tokens
-- Ethereum Sepolia
--    Router  0x0bf3de8c5d3e8a2b34d2beeb17abfcebaf363a59
--    LINK 0x779877A7B0D9E8603169DdbD7836e478b4624789
+
+### Ethereum Sepolia
+- Router  0x0bf3de8c5d3e8a2b34d2beeb17abfcebaf363a59
+- Chain Selector 16015286601757825753
+- LINK 0x779877A7B0D9E8603169DdbD7836e478b4624789
 - WETH 0x097D90c9d3E0B50Ca60e1ae45F6A81010f9FB534
 - Price Feed Contract Addresses GHO / USD - 0x635A86F9fdD16Ff09A0701C305D3a845F1758b8E
 
@@ -67,8 +69,9 @@ Sepolia testnet -> Arbitrum Sepolia testnet
 - GHO 0xc4bF5CbDaBE595361438F8c6a187bDc330539c60
 
 
-Arbitrum Sepolia testnet
+### Arbitrum Sepolia testnet
 - Router 0x2a9C5afB0d0e4BAb2BCdaE109EC4b0c4Be15a165
+- Chain Selector 3478487238524512106
 - LINK 0xb1D4538B4571d411F07960EF2838Ce337FE1E80E
 - WETH 0xE591bf0A0CF924A0674d7792db046B23CEbF5f34
 
