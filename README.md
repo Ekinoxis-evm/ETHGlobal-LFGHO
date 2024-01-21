@@ -37,6 +37,10 @@ General Costumer Journey Resume
    Acronimo: COPX
    Decimals: 18 - confirmar
    Link:
+
+
+ Ethereum Sepolia, the router address is 0x0bf3de8c5d3e8a2b34d2beeb17abfcebaf363a59 and the LINK address is  0x779877A7B0D9E8603169DdbD7836e478b4624789
+.
    
 8. Vault COPX/GHO
 GHO seopolia: 0xc4bF5CbDaBE595361438F8c6a187bDc330539c60
